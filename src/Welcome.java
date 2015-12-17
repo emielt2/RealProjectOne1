@@ -6,6 +6,5 @@ public class Welcome {
         System.out.println("Welcome to RealProjectOne");
         System.out.println("Second text line");
         System.out.println("3rd text line");
-        System.out.println("Master Branch");
     }
 }
