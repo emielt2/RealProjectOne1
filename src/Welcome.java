@@ -5,5 +5,6 @@ public class Welcome {
     public static void main(String args[]){
         System.out.println("Welcome to RealProjectOne");
         System.out.println("Second text line");
+        System.out.println("3rd text line");
     }
 }
